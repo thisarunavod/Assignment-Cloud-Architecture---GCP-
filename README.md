@@ -1,5 +1,5 @@
 # Cloud-Enabled Deployment in Action with GCP
-### H K T Navod (IJSE - galle branch - 2301682011)
+### H K T Navod (IJSE - galle branch - 2301682011, thisarunavod@gmail.com)
 
 This project demonstrates a cloud-enabled deployment implementation using Google Cloud Platform (GCP), featuring a Spring Boot microservice backend and a React TypeScript frontend application.
 
